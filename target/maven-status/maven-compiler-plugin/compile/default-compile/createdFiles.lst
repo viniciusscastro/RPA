@@ -1,0 +1,15 @@
+com\lp\rpa\entities\Passageiro$PassageiroBuilder.class
+com\lp\rpa\entities\VooId.class
+com\lp\rpa\entities\Voo.class
+com\lp\rpa\entities\Reserva$ReservaBuilder.class
+com\lp\rpa\entities\Reserva.class
+com\lp\rpa\entities\Aeronave$AeronaveBuilder.class
+com\lp\rpa\RpaApplication.class
+com\lp\rpa\entities\Passageiro.class
+com\lp\rpa\entities\ReservaId$ReservaIdBuilder.class
+com\lp\rpa\entities\Aeronave.class
+com\lp\rpa\entities\VooId$VooIdBuilder.class
+com\lp\rpa\entities\Aviao$AviaoBuilder.class
+com\lp\rpa\entities\Aviao.class
+com\lp\rpa\entities\Voo$VooBuilder.class
+com\lp\rpa\entities\ReservaId.class
